@@ -12,7 +12,7 @@ I specialize in building functional, business-driven applications that solve rea
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📈 Featured Work
-* **Library Management System:** A custom database solution for Strathmore University.
+* **Library Management System:** A custom library management solution with role-based access control for Strathmore University.
 * **Multi-tenant Booking Manager:** Scalable SaaS platform for appointment scheduling.
 
 ## 📫 Connect with me
