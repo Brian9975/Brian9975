@@ -16,4 +16,4 @@ I specialize in building functional, business-driven applications that solve rea
 * **Multi-tenant Booking Manager:** Scalable SaaS platform for appointment scheduling.
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/briankariukitech) | [Portfolio](brian-kariuki.vercel.app) | [Email](briankariuki9975@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/briankariukitech) | [Portfolio](brian-kariuki.vercel.app) | [Email](mailto:briantech100@gmail.com)
