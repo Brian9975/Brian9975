@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Brian 👋 
 
-<!--
-**Brian9975/Brian9975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
+I specialize in building functional, business-driven applications that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📈 Featured Work
+* **Library Management System:** A custom database solution for Strathmore University.
+* **Multi-tenant Booking Manager:** Scalable SaaS platform for appointment scheduling.
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/briankariukitech) | [Portfolio](brian-kariuki.vercel.app) | [Email](briantech100@gmail.com)
