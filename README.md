@@ -1,4 +1,4 @@
-# Hi, I'm Brian 👋 
+# Hello, I am Brian 👋 
 
 ### Frontend Developer
 I specialize in building functional, business-driven applications that solve real-world problems.
