@@ -14,4 +14,4 @@ I've gained hands-on experience building and deploying applications for real cli
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,git,github,vscode,vercel&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Firebase, Git, GitHub, VS Code, Vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase,git,github,vscode,vercel&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Firebase, Git, GitHub" />
