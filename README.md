@@ -1,28 +1,71 @@
-# Hello, I am Brian 👋 
 
-### Frontend Developer
-I specialize in building functional, business-driven applications that solve real-world problems.
+<div align="center">
+
+# Hi, I'm Brian Kariuki 👋
+
+### Frontend Developer | React • Next.js • TypeScript
+
+**Building thoughtful web experiences and practical applications that solve real problems.**
+
+Based in Kenya 🇰🇪
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-kariuki.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briankariukitech/)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Frontend & Core
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+I'm a **Frontend Developer** focused on building responsive, functional, and user-friendly web applications.
 
-### Styling & UI
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![ShadCN UI](https://img.shields.io/badge/ShadCN%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
+I work primarily with **React, Next.js, TypeScript, and Firebase**, turning ideas and requirements into working software.
 
-### Backend & Deployment
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+My experience includes developing business websites, internal management systems, and productivity tools. I've worked with real clients, implemented authentication and data management, and taken applications from development through deployment.
 
-## 📈 Featured Work
-* **Library Management System:** A custom library management solution with role-based access control for Strathmore University.
-* **Multi-tenant Booking Manager:** Scalable SaaS platform for appointment scheduling.
+I care about writing maintainable code, understanding how systems work, and building solutions that make everyday tasks easier.
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/briankariukitech) | [Portfolio](https://brian-kariuki.vercel.app) | [Email](mailto:briantech100@gmail.com)
+---
+
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Frameworks & UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Data
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-334155?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities to contribute to meaningful projects, collaborate with developers, and build software that delivers value.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briankariukitech/)
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://brian-kariuki.vercel.app/)
+
+</div>
